@@ -15,3 +15,14 @@ A Java Desktop Application for bill splitting
 
 # Features Of Server
 - A server that can handle multiple clients at the same time
+
+# Screenshots
+![Login Page](https://github.com/kritank/splitwise/blob/master/Screenshots/Login.png)
+
+![Home Page](https://github.com/kritank/splitwise/blob/master/Screenshots/Home.png)
+
+![Edit Profile](https://github.com/kritank/splitwise/blob/master/Screenshots/Edit_Profile.png)
+
+![Add Friends](https://github.com/kritank/splitwise/blob/master/Screenshots/Add_Friends.png)
+
+![Add Bill](https://github.com/kritank/splitwise/blob/master/Screenshots/Add_Bill.png)
