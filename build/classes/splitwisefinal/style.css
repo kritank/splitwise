@@ -1,0 +1,23 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 22-Mar-2020, 7:54:07 PM
+    Author     : KRITANK SINGH
+*/
+
+.chart-pie-label-line {
+    -fx-stroke: #ffffff;
+    -fx-fill: #ffffff;
+}
+
+.chart-pie-label { /*this is what you need for labels*/
+    -fx-fill: #ffffff;
+    /*-fx-font-size: 1em;*/
+} 
+.chart-legend {
+   -fx-background-color:  #ffffff;
+   -fx-stroke: #ffffff;
+}
